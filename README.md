@@ -21,4 +21,4 @@ The case study analyzes Decentral Inc. a leading Canadian blockchain company.
 
 A Proof of Authority testnet was created and used to make a test transaction.
 
-**[POA Development chain with Instructions](POA_Development_chain/Zbank_poa.md)**
+**[POA Development chain with Instructions](POA/Zbank_poa.md)**
