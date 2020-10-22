@@ -1,0 +1,38 @@
+=============== Oct 19, 2020 (EDT) ===============
+16:34:02.684984 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:34:02.689986 db@open opening
+16:34:02.691985 version@stat F·[] S·0B[] Sc·[]
+16:34:02.692994 db@janitor F·2 G·0
+16:34:02.692994 db@open done T·3.0083ms
+16:34:02.699984 db@close closing
+16:34:02.701985 db@close done T·2.0012ms
+=============== Oct 19, 2020 (EDT) ===============
+16:38:14.772026 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:38:14.773031 version@stat F·[] S·0B[] Sc·[]
+16:38:14.773031 db@open opening
+16:38:14.773031 journal@recovery F·1
+16:38:14.782025 journal@recovery recovering @1
+16:38:14.786027 memdb@flush created L0@2 N·15 S·1KiB "+\n(..\x87\xebd,v3":"sec..P4\xa5,v1"
+16:38:14.795026 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+16:38:14.803027 db@janitor F·3 G·0
+16:38:14.803027 db@open done T·29.9959ms
+=============== Oct 19, 2020 (EDT) ===============
+17:23:21.040295 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:23:21.041303 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+17:23:21.041303 db@open opening
+17:23:21.041303 journal@recovery F·1
+17:23:21.046293 journal@recovery recovering @3
+17:23:21.054302 memdb@flush created L0@5 N·16 S·1KiB "Dat..ion,v17":"r\x00\x00..\xb2\x17\xb1,v29"
+17:23:21.059304 version@stat F·[2] S·2KiB[2KiB] Sc·[0.50]
+17:23:21.067295 db@janitor F·4 G·0
+17:23:21.067295 db@open done T·25.9921ms
+=============== Oct 19, 2020 (EDT) ===============
+17:27:11.535925 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:27:11.535925 version@stat F·[2] S·2KiB[2KiB] Sc·[0.50]
+17:27:11.535925 db@open opening
+17:27:11.535925 journal@recovery F·1
+17:27:11.539929 journal@recovery recovering @6
+17:27:11.548929 memdb@flush created L0@8 N·9 S·632B "H\xd20..\xd7\x15\xff,v36":"r\x00\x00..\xd7\x15\xff,v38"
+17:27:11.554921 version@stat F·[3] S·2KiB[2KiB] Sc·[0.75]
+17:27:11.568923 db@janitor F·5 G·0
+17:27:11.568923 db@open done T·32.998ms
